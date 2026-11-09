@@ -8,7 +8,7 @@ window.JWB_CONFIG = {
 
   // Option B: the sheet's ID (the long string in its URL) if it is shared as
   // "Anyone with the link can view".
-  sheetId: "",
+  sheetId: "1lI0lQde9cJkygf1_1-d8jsX3Oz4XKLFzlXcyzile8gg",
   sheetName: "Inventory",
 
   // How often the page re-reads the sheet while open.
